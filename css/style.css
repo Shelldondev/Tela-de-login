@@ -1,0 +1,35 @@
+h1, h2, h3 {
+   text-align: center;
+   color: darkviolet;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 45px;
+
+}
+p {
+    color: green;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#notebook, div,a  {
+    text-align: center;
+    text-decoration: none;
+
+    }
+h1 {
+    color: aliceblue;
+    background-color: black;
+    width: 100%;
+    height: 75px;
+    
+} 
+#notebook, a {
+    font-size: 35px; /* tamanho da fonte */
+    font-family: Arial, Helvetica, sans-serif; /*familia da fonte */
+    font-weight: bold; /* espessura da fonte */
+}
+span {
+    color: rgb(226, 86, 43);
+}
+    
